@@ -13,7 +13,7 @@ My client Louise, aims to launch a successful kickstarter campaign. The analysis
 
 ### Analysis of Outcomes Based on Launch Date
 Data from 2014 to 2017 and taken and the months were analyzed against the number of successful, failed, and canceled campaigns. 
-![Visualization of Outcomes Based on Launch Date](https://github.com/jgomez07/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png
+![Visualization of Outcomes Based on Launch Date](https://github.com/jgomez07/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Outcome data including successful, failed, and canceled campaigns was compared against goal ranges. 
